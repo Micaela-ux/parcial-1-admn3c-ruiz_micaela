@@ -1,0 +1,25 @@
+#body{
+    background-color: white;
+}
+
+.nav-link:hover {
+    color: #8c0202;
+}
+
+.h2 {
+    font-size: 40px;
+}
+
+.bg-p1 {
+    background-color: #8c0202;
+    color: white;
+}
+
+.color-p1{
+    color: #8c0202;
+}
+
+.bg-p2 {
+    background-color: hsl(0, 96%, 22%);
+    color: white;
+}
